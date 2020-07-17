@@ -1,4 +1,4 @@
-## ilk commit merhaba
+## ilk commit master
 
 - Merhaba ilk commit
 
